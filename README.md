@@ -3,30 +3,28 @@
 This project analyzes and categorizes Stack Overflow posts tagged with [nlp].
 
 ## Folder Structure
-
-
-├── README.md
-├── requirements.txt
-├── .gitignore
 │
-├── src/
-│   ├── main.py
-│   ├── scraper.py
-│   ├── preprocess.py
-│   ├── categorize.py
-│   ├── visualize.py
-│   ├── topic_model.py
+├── 📂 src/                    # Source code files for all components
+│   ├── scraper.py             # Collects StackOverflow posts using StackExchange API
+│   ├── preprocess.py          # Cleans and prepares raw text data
+│   ├── categorize.py          # Performs rule-based categorization
+│   ├── visualize.py           # Generates WordCloud and category charts
+│   └── topic_model.py         # Performs topic modeling using LDA
 │
-│── data/
-│   ├── nlp_stackoverflow_sample.csv
-│   ├── preprocessed.csv
-│   ├── categorized.csv
-│   ├── category_summary.csv
+├── 📂 data/                    # Datasets and output CSVs
+│   ├── nlp_stackoverflow_sample.csv   # Raw dataset collected (~6,248 posts)
+│   ├── preprocessed.csv                # Cleaned text after preprocessing
+│   ├── categorized.csv                 # Posts with assigned categories
+│   └── category_summary.csv           # Category-wise post count summary
 │
-│── assets/
+├── 📂 assets/                 # Visual assets (WordClouds, Charts)
 │   ├── wordcloud.png
 │   ├── category_distribution.png
 │   └── category_over_time.png
+│
+├── requirements.txt          # Python dependencies
+├── main.py                   # Runs full processing pipeline end-to-end
+└── README.md                 # Project overview and instructions
 
 
 ## How to Run
