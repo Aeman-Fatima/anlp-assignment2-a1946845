@@ -1,0 +1,208 @@
+question_id,title,description,tags,accepted_answer_id,view_count,creation_date
+79559702,NameError: name &#39;init_empty_weights&#39; is not defined while using hugging face models,,"nlp,huggingface-transformers,huggingface",79577000,645,1744023761
+79549787,Why does Presidio with spacy nlp engine not recognize organizations and PESEL while spaCy does?,,"python,nlp,spacy,presidio",79552218,99,1743573371
+79548202,"GPT-2 and other models from huggingface -100 label index for training, instead of pad token",,"nlp,huggingface-transformers,pre-trained-model",79551169,55,1743499277
+79523269,Trouble getting importing gensim to work in colab,,"numpy,nlp,dependencies,google-colaboratory,gensim",79523777,222,1742481362
+79501178,Store images instead of showing in a server,,"python,nlp,large-language-model",79501337,39,1741704631
+79482283,Presidio with Langchain Experimental does not detect Polish names,,"python,nlp,spacy,langchain,presidio",79495969,241,1741040827
+79459888,OpenNLP POSTaggerME and ChunkerME synergy,,"nlp,opennlp",79475445,42,1740240371
+79419884,Underfitting Pre-Trained Glove + LSTM Model: Accurcacy Unchanged,,"keras,deep-learning,nlp,lstm,sentiment-analysis",79425201,50,1738896505
+79330283,Can&#39;t compile Marian NMT,,"gcc,cmake,nlp,g++",79332711,76,1736057099
+79328514,how to get custom column in the model&#39;s forward() function when training with Huggingface Trainer?,,"pytorch,nlp,large-language-model,huggingface-trainer",79328698,44,1735981064
+79312133,Getting all leaf words (reverse stemming) into one Python List,,"python,nlp,nltk",79312987,54,1735311845
+79298368,Inspect all probabilities of BERTopic model,,"python,nlp,topic-modeling",79299703,61,1734727774
+79293919,Determining most popular words in the English dictionary within a dictionary of words,,"python,nlp,nltk,detection",79294074,73,1734603844
+79293889,catelog sentences into 5 words that represent them,,"python,pandas,nlp,text-mining,similarity",79294099,57,1734603407
+79253283,Counting the Frequency of Some Words within some other Key Words in Text,,"python,pandas,nlp",79263000,84,1733367906
+79247672,Error in getting Captum text explanations for text classification,,"machine-learning,pytorch,nlp,huggingface-transformers,text-classification",79248379,92,1733230065
+79247594,euclidian distance from word to sentence after doing Vectorizer,,"pandas,dataframe,nlp,text-classification,tf-idf",79248087,46,1733228705
+79234004,Llama-3.2-1B-Instruct generate inconsistent output,,"python,nlp,huggingface-transformers,large-language-model",79246602,696,1732798957
+79192130,Using an AWS service to execute a python script that will extract keywords from text using keyBERT?,,"python,amazon-web-services,aws-lambda,nlp,large-language-model",79192427,60,1731669216
+79178041,Normalization of token embeddings in BERT encoder blocks,,"nlp,normalization,bert-language-model,attention-model",79238393,180,1731335431
+79173053,How to convert character indices to BERT token indices,,"python,nlp,dataset,large-language-model,bert-language-model",79175157,39,1731165333
+79159805,How can I share a complex spaCy NLP model across multiple Python processes to minimize memory usage?,,"nlp,multiprocessing,python-multiprocessing,spacy",79162232,97,1730821773
+79155290,"Dutch sentiment analysis RobBERTje outputs just positive/negative labels, netural label is missing",,"python,nlp,bert-language-model,roberta-language-model",79155380,58,1730720195
+79148979,Finding Root Form of Verbs using Curiosity-AI/Catalyst,,"c#,nlp",79160163,143,1730483881
+79145419,Is it possible to get embeddings from NV-Embed using Candle?,,"machine-learning,rust,nlp",79156470,336,1730390149
+79111733,"How to derive attributes/labels from short plain text descriptions? (NER, LLM, ?)",,"nlp,artificial-intelligence,large-language-model,named-entity-recognition",79113907,185,1729544096
+79102797,Varying embedding dim due to changing padding in batch size,,"python,text,nlp,padding,data-preprocessing",79105117,49,1729266891
+79100835,How can I adjust the performance of tokenizer?,,"nlp,huggingface-transformers,huggingface,huggingface-tokenizers",79107575,50,1729233915
+79081924,"With spaCy, how can I get all lemmas from a string?",,"python,pandas,nlp,spacy,lemmatization",79086290,105,1728767001
+79057082,Avoiding overlap in frequency and document frequency count in Quanteda,,"r,count,nlp,overlap,quanteda",79058791,61,1728132232
+79005985,Seq2Seq trainer.train() keeps giving indexing error,,"python,nlp,huggingface-transformers,huggingface-trainer",79007590,57,1726821812
+78985137,Alternative to device_map = &quot;auto&quot; in Huggingface Pretrained,,"machine-learning,deep-learning,nlp,huggingface-transformers",79007343,1084,1726317723
+78966943,How are the weights of the Mistral models reinitialized in Huggingface?,,"nlp,huggingface-transformers,large-language-model,mistral-7b",78969695,185,1725909952
+78957322,Break after first PER sequence found with Spacy,,"python,nlp,spacy",78957722,43,1725628472
+78949607,Trainer huggingface - RuntimeError: cannot pin &#39;torch.cuda.FloatTensor&#39; only dense CPU tensors can be pinned,,"nlp,huggingface-transformers",79112186,1516,1725466158
+78943401,Fine-tuning a Pretrained Model with Quantization and AMP: Scaler Error &quot;Attempting to Unscale FP16 Gradients&quot;,,"python,pytorch,nlp,huggingface-transformers,fine-tuning",78945455,518,1725352703
+78933232,Keep training pytorch model on new data,,"python,scikit-learn,pytorch,nlp,python-polars",78934212,284,1725040079
+78932356,Capitalized words in sentiment analysis,,"nlp,sentiment-analysis,bert-language-model,data-preprocessing",78933236,135,1725025796
+78920095,cannot import name &#39;split_torch_state_dict_into_shards&#39; from &#39;huggingface_hub&#39;,,"python,nlp,huggingface-transformers,transformer-model,llama",78920098,6146,1724779242
+78917743,How to Process Data on GPU Instead of RAM for This Python Code?,,"nlp,gpu,torch,openai-whisper",78918851,64,1724745808
+78912171,How to Visualize Cross-Attention Matrices in MarianMTModel During Output Generation,,"python,pytorch,nlp,huggingface-transformers",78915504,403,1724616834
+78905614,Why doesn&#39;t permuting positional encodings in BERT affect the output as expected?,,"python,pytorch,nlp,huggingface-transformers",78906902,80,1724411528
+78901998,How does OpenAIEmbeddings() work? Is it creating a single vector of size 1536 for whole text corpus?,,"deep-learning,nlp,openai-api,openaiembeddings",78902136,620,1724335765
+78895710,"NER versus LLM to extract name, gender, role and company from text",,"nlp,large-language-model,named-entity-recognition",78896098,1632,1724225953
+78887743,Does Padding in a Batch of Sequences Affect Performance? How Effective is the Attention Mask?,,"pytorch,nlp,huggingface-transformers,transformer-model",78890409,546,1724068146
+78865486,SpaCy Matcher with optional suffix in pattern reports multiple matches on same text,,"nlp,spacy,matcher",78870921,39,1723541843
+78862691,`mlflow.transformers.log_model()` does not finish,,"python,nlp,huggingface-transformers,mlflow,mlops",78877979,354,1723480052
+78853409,NLLB Fine-Tuning Error: Missing data_prefix Configuration (English-German Translation),,"python,nlp,machine-translation,fine-tuning,fairseq",78854613,160,1723214814
+78846004,How can I use structured_output with Azure OpenAI with the openai Python library?,,"python,nlp,azure-openai,gpt-4",78946352,1227,1723072459
+78836208,Removing bi-grams after tokenization for TfidfVectorizer,,"python,scikit-learn,nlp,preprocessor,tfidfvectorizer",78837616,42,1722887200
+78823069,HuggingFace LLM Evaluate: RuntimeError: isin_Tensor_Tensor_out only works on floating types on MPS for pre MacOS_14_0. Received dtype: Long,,"pytorch,nlp,apple-m1,huggingface,huggingface-evaluate",78875218,859,1722547156
+78809281,ImportError: cannot import name &#39;pre_init&#39; from &#39;langchain_core.utils&#39;,,"python,pip,nlp,langchain,large-language-model",78809283,1817,1722293953
+78778988,Do I need to use Named Entity Recognition (NER) in tokenization?,,"python,python-3.x,nlp,spacy,named-entity-recognition",78780820,385,1721654894
+78773758,"IndexError: list index out of range, when trying to predict from the fine tuned model using Hugginface",,"nlp,huggingface-transformers,huggingface,fine-tuning",78775082,115,1721504683
+78710185,not able END function using &quot;add_conditional_edges&quot; in lang graph,,"nlp,langchain,langgraph",78713763,1997,1720164558
+78707861,How to make dynamic API calls based on user input in a Gemini application python nlp?,,"python,nlp,request,google-cloud-vertex-ai,google-gemini",78708210,458,1720105878
+78685093,Alternative to Receptive field in Transformers and what factors impact it,,"nlp,huggingface-transformers,receptive-field",78687012,147,1719637110
+78661728,implement a search engine chain using tavily in langchain,,"python,nlp,search-engine,langchain,chain",78910571,520,1719223266
+78639577,Understanding the results of Transformers Learn In Context with Gradient Descent,,"machine-learning,nlp,large-language-model,transformer-model,meta-learning",78645188,137,1718743425
+78631769,Problems with Named Entity Recognition in spaCy using German de_dep_news_trf Pipeline,,"python,nlp,spacy",78632377,201,1718615669
+78612251,How do we add/modify the normalizer in a pretrained Huggingface tokenizer?,,"python,nlp,large-language-model,huggingface-tokenizers",78624238,312,1718190239
+78586621,HuggingFace pipeline - Debug prompt,,"python,nlp,huggingface-transformers",78587273,384,1717677407
+78575305,AttributeError: &#39;TrainingArguments&#39; object has no attribute &#39;model_init_kwargs&#39;,,"python,nlp,huggingface-transformers,large-language-model,peft",78578835,4589,1717502794
+78573280,Unable to fit new documents without running out of memory in STM topic modeling,,"r,nlp,lda,stm",78573322,25,1717472515
+78552651,How to fix error `OSError: &lt;model&gt; does not appear to have a file named config.json.` when loading custom fine-tuned model?,,"pytorch,nlp,huggingface-transformers,large-language-model,peft",78564203,3064,1717036616
+78538749,Not able to install spacy==2.3.5 version,,"python,parsing,pip,nlp,spacy",78541534,213,1716808809
+78525770,Filtering stop words out of a multiple text files (using a list of stop words),,"python,nlp",78527729,44,1716502512
+78489915,How to lemmatize text column in pandas dataframes using stanza?,,"pandas,nlp,tokenize,lemmatization,stanza",78491545,72,1715862890
+78485347,Encode a list of sentences into embeddings using a HuggingFace model not in its hub,,"nlp,huggingface-transformers,encode,embedding,huggingface",78502336,771,1715791179
+78461078,How to optimize this function and improve running time?,,"python,performance,optimization,nlp,nltk",78461789,47,1715354280
+78455102,Why doesn&#39;t fuzzywuzzy&#39;s process.extractBests give a 100% score when the tested string 100% contains the query string?,,"python,nlp,string-matching,fuzzywuzzy",78455186,76,1715264676
+78443980,FastText language_identification in R returns too many arguments - how to match to texts?,,"r,nlp,fasttext,language-detection",78444037,132,1715100381
+78430524,Determining contents of decoder_hidden_states from T5ForConditionalGeneration,,"pytorch,nlp,huggingface-transformers",78447718,121,1714860817
+78397201,Extracting only technical keywords from a text using RAKE library in Python,,"python,python-3.x,nlp,nltk,rake",78406317,328,1714283530
+78394225,Langchain sql agent with context,,"text,nlp,langchain",78402358,1083,1714204199
+78393709,Performance of textSimilarity() from R&#39;s text library,,"r,performance,nlp,huggingface-transformers",78407238,248,1714187758
+78383619,How to Generate Text with Specific Length Using AI API,,"python,nlp,openai-api,text-generation",78383634,237,1714037456
+78375631,ValueError: Cannot use a compiled regex as replacement pattern with regex=False,,"python,text,nlp",78375724,333,1713923527
+78371741,No Attention returned even when output_attentions= True,,"nlp,huggingface-transformers,bert-language-model,transformer-model,attention-model",78492414,424,1713869330
+78365608,Fine-tuning BERT with deterministic masking instead of random masking,,"nlp,huggingface-transformers,bert-language-model",78510287,345,1713782345
+78344999,Stanford NLP Annotation pipeline.annotate resulting into OutOfMemoryError in Java,,"java,nlp,out-of-memory",78345170,26,1713417210
+78344850,How to tag words that not include one specific symbol in Spacy?,,"python,nlp,pattern-matching,spacy",78348925,31,1713414070
+78324647,Sklearm FeatureHasher not working on a single column in a dataframe,,"pandas,machine-learning,scikit-learn,nlp",78324733,111,1713115217
+78317989,Is it possible to fine-tune a pretrained word embedding model like vec2word?,,"python,nlp,artificial-intelligence,word2vec,word-embedding",78323755,1350,1712944676
+78314842,R Tidymodels textrecipes - tokenizing with spacyR - how to remove punctuations from produced list of tokens,,"r,nlp,spacy,tidymodels",78317136,90,1712907594
+78307073,"LangChain agent parsing error with structured_chat_agent and Wikipedia tool, handle_parsing_errors hits limit",,"python,nlp,openai-api,langchain,large-language-model",78316386,2640,1712782354
+78294720,"Error when calling Hugging Face load_dataset(&quot;glue&quot;, &quot;mrpc&quot;)",,"python,nlp,huggingface,huggingface-datasets",78310683,456,1712604073
+78285447,What&#39;s inside inner vertices in Word2Vec Hierarchical Softmax?,,"machine-learning,nlp,word2vec,hierarchical,softmax",78313102,148,1712427341
+78285241,Extracting dates from a sentence in spaCy,,"python,regex,nlp,spacy,named-entity-recognition",78285614,79,1712423559
+78284866,What is the best function/stage to use tokenizer in Pytorch&#39;s data processing?,,"pytorch,nlp",78324875,1651,1712416485
+78266192,Python Spacy Pattern- How to tag a word based on another word?,,"python,nlp,spacy",78266459,47,1712131629
+78262529,Gensim&#39;s Doc2Vec with documents in multiple languages,,"python,nlp,gensim,recommendation-engine,doc2vec",78318248,142,1712072850
+78258373,Get previous sentence while using SpaCy matcher,,"python,nlp,spacy",78259079,50,1712016891
+78241665,"How to detect if two sentences are simmilar, not in meaning, but in syllables/words?",,"search,nlp,full-text-search,similarity,sentence-similarity",78259030,126,1711678118
+78240828,Is BertForSequenceClassification using the CLS vector?,,"nlp,huggingface-transformers,bert-language-model",78464905,216,1711659257
+78219076,How to remove layers in Huggingface&#39;s transformers GPT2 pre-trained models?,,"python,machine-learning,deep-learning,nlp,transformer-model",78219403,345,1711369695
+78211318,How can i get the first content of a python synsets list?,,"python,nlp,nltk,sentiment-analysis,synset",78211341,43,1711205598
+78184077,Solution to solve problem different results when run Doc2vec gensim?,,"nlp,doc2vec",78186747,43,1710818417
+78157864,How to optimize the function which uses looping on lists on pandas dataframe?,,"python,python-3.x,pandas,list,nlp",78158348,94,1710384992
+78140912,SpaCy: Regex pattern does not work in rule-based matcher,,"python,nlp,spacy,named-entity-recognition",78166068,97,1710163199
+78136056,Torchtext functions in Newest version analogue,,"nlp,version,torchtext",78151058,157,1710077818
+78129126,TypeError: Exception encountered when calling layer &#39;embeddings&#39; (type TFBertEmbeddings),,"tensorflow,deep-learning,nlp,bert-language-model,transformer-model",78135776,1386,1709916511
+78091661,How to apply a linear layer atop a sentence transformer,,"python,pytorch,nlp,bert-language-model",78093583,530,1709360446
+78060804,How to get the SHAP value per class?,,"machine-learning,deep-learning,nlp,shap,xai",78068645,287,1708949334
+78039417,Questions about training LLMs on large text datasets for text generation from scratch,,"python,tensorflow,deep-learning,nlp,tf.data.dataset",78132351,470,1708590835
+78031519,"How to resolve ValueError: You should supply an encoding or a list of encodings to this method that includes input_ids, but you provided [&#39;label&#39;]",,"nlp,huggingface-transformers,huggingface-tokenizers,peft",78032173,4460,1708488681
+78031203,What and how LLM is used for ranking organization job title?,,"nlp,bert-language-model,large-language-model,nlp-question-answering",78031704,64,1708481030
+78006552,Shorten product title to a specific length using python nlp libraries,,"python,string,nlp,nltk,e-commerce",78006769,111,1708078154
+77965060,Key matrix redundant in Transformer language models?,,"nlp,transformer-model",78476753,94,1707430461
+77963718,Are [INST] and [/INST] needed for mistral chat?,,"nlp,mistral-7b",78012177,3107,1707413566
+77951208,Extracting and Identifying locations with NLP + Spacy,,"nlp,spacy,named-entity-recognition",78023173,1110,1707258852
+77940890,Google semantic retriever example error &#39;Credentials&#39; object has no attribute &#39;universe_domain&#39;,,"google-cloud-platform,nlp,artificial-intelligence,large-language-model,google-ai-platform",77941990,116,1707135631
+77935492,What is the TREC 2006 Spam Track Public Corpora Format?,,"nlp,spam-prevention",77957097,129,1707044324
+77933640,How to calculate the weighted sum of last 4 hidden layers using Roberta?,,"python,machine-learning,deep-learning,nlp,huggingface-transformers",77952168,329,1706992476
+77906649,Why token embedding different from the embedding by the BartForConditionalGeneration model,,"machine-learning,pytorch,nlp,huggingface-transformers,bart",77909164,127,1706620714
+77903080,Finding embedding dimentions of the HuggingFace model,,"nlp,huggingface-transformers,llama-index,faiss",77947340,2588,1706569086
+77886445,I am unable to produce rearch results from google/youtube in my speech recognition code,,"python,nlp,artificial-intelligence,speech-recognition,google-text-to-speech",77886899,40,1706274110
+77868284,combining falcon 40b instruct with langchain,,"nlp,chatbot,langchain,large-language-model,falcon",77870500,327,1706031797
+77846486,BERTopic: &quot;Make sure that the iterable only contains strings&quot;,,"python,python-3.x,nlp,topic-modeling",77847778,940,1705671419
+77839628,Loading en_core_web_sm results in AttributeError: module &#39;transformers&#39; has no attribute &#39;BertTokenizerFast&#39;,,"python,pip,nlp,anaconda,spacy",77839778,284,1705583082
+77835506,Truncate texts in the middle for Bert,,"nlp,token,tokenize,bert-language-model",77836475,245,1705525510
+77830490,Spacy import error: cannot import name &#39;COMBINING_DIACRITICS&#39; from &#39;spacy.lang.char_classes&#39;,,"python,pip,nlp,spacy,pydantic",77835083,234,1705475034
+77828572,What is sent to the llm when using a chat model?,,"nlp,langchain",77828779,158,1705437174
+77823105,I am classifying each word in a sentence (Named Entity Recognition) but I receive ...an unexpected keyword argument &#39;grouped_entities&#39;,,"python,nlp,google-cloud-colab-enterprise",77825273,173,1705369654
+77822202,How to add a dense layer on top of SentenceTransformer?,,"python,nlp,huggingface-transformers,sentence-transformers",77822253,488,1705350580
+77805776,How to calculate word and sentence embedding using Roberta?,,"python,machine-learning,nlp,huggingface-transformers,transformer-model",77812267,2468,1705053901
+77800331,How to Find Positional embeddings from BARTTokenizer?,,"pytorch,nlp,huggingface-transformers,summarization,bart",77800561,549,1704978795
+77784846,How to find similar sounding words?,,"python,nlp,nltk",77784921,211,1704783458
+77774499,How to save Keras TextVectorization layer configuration with custom standardization function into a pickle file and reload it?,,"python,tensorflow,keras,nlp",77788582,464,1704655309
+77748737,How to calculate word and sentence embedding using GPT-2?,,"python,machine-learning,nlp,huggingface-transformers,transformer-model",77751619,1683,1704232552
+77746423,Find vocab word from vector for flexible comparisons,,"nlp,spacy",77747182,30,1704202631
+77684999,GooglePalm(). NotImplementedError: Need to determine which default deprecation schedule to use. within ?? minor releases,,"nlp,langchain,large-language-model,palm-pre",77694822,470,1702986818
+77681471,Unable to tag the POS of the text file,,"python,nlp,tagging,huggingface,flair",77681791,37,1702929737
+77676747,Google Colab unable to Hugging Face model,,"python,nlp,google-colaboratory,huggingface-transformers,bert-language-model",77686737,1185,1702868855
+77673353,How to use adapter transformers with a Huggingface Pipeline,,"python,machine-learning,nlp,huggingface-transformers",77675813,899,1702788568
+77661152,Sentence Similarity between a phrase with 2-3 words and documents with multiple sentences,,"nlp,word-embedding,sentence-similarity,sentence-transformers",77666884,306,1702566577
+77653666,Import error in training arguments in Colaboratory,,"python,nlp,huggingface",77653714,772,1702471266
+77651770,How to Load the pre-trained word embeddings in .npy files,,"python,nlp,word-embedding",77654014,367,1702452860
+77640950,Logistic Regression gradually tends to predict all 0s while training on mini batches,,"regression,classification,binary-data,nlp",77644113,58,1702302610
+77639714,Big Query - Case Statements and Apostrophe&#39;s,,"sql,google-cloud-platform,google-bigquery,nlp",77639946,106,1702298923
+77621022,Insert dots/points in messy string for textual analysis in python,,"python,nlp,sentence",77621197,56,1701961067
+77615264,Why does OpenNLP CLI output &quot;SLF4J: Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot; on Windows?,,"java,nlp,slf4j,opennlp",77630535,173,1701884837
+77609784,How to make stanza lemmatizer to return just the lemma instead of a dictionary?,,"python,nlp,stanford-nlp,lemmatization",77609905,432,1701819030
+77594086,How to run a NLP+Transformers LLM on low memory GPUs?,,"python,nlp,gpu,huggingface-transformers,huggingface-tokenizers",77600312,1078,1701603145
+77586902,Attention Layer changing Batch Size at inference,,"tensorflow,keras,deep-learning,nlp,sequence",77676552,299,1701449794
+77579658,Pretrained model with stride doesn’t predict long text,,"python,nlp,huggingface-transformers",77580891,543,1701358093
+77563897,Bert topic clasiffying over a quarter of documents in outlier topic -1,,"python,nlp,bert-language-model,topic-modeling",77565599,1108,1701174746
+77563423,Modifying the sentiment of certain words in tidytext get_sentiments(),,"r,machine-learning,dplyr,nlp,tidytext",77564182,65,1701170019
+77560044,spaCy displacy output using anvil.works server,,"python,jupyter-notebook,nlp,spacy,displacy",77562648,90,1701120571
+77546477,How to build a model and train it with tensorflow keras sub classing,,"python-3.x,tensorflow,keras,deep-learning,nlp",77554281,63,1700880570
+77544604,Importing deepspeech error: Module not found,,"python,deep-learning,nlp,mozilla-deepspeech",77547213,255,1700844483
+77544203,How to Integrate Custom OpenAIModel into a AutoModelForSequenceClassification Model?,,"python,pytorch,nlp,huggingface-transformers,huggingface",77547197,92,1700839598
+77540677,Clearing context window of LLM in Huggingface,,"nlp,huggingface-transformers,transformer-model,huggingface,large-language-model",77541156,1290,1700799090
+77533488,NLP pre-processing on two columns in data frame gives error,,"python,pandas,dataframe,nlp,nltk",77538239,131,1700693657
+77511368,LLM slow inference even on A100 GPU,,"nlp,gpu,huggingface-transformers,large-language-model",77592933,1402,1700407905
+77491934,Is this right way to merge LoRA weights?,,"pytorch,nlp,huggingface-transformers",77501731,8803,1700101226
+77484087,unable to map color onto a network graph from an additional variable using ggraph,,"r,nlp,visualization,ggraph",77486152,71,1699999197
+77480710,R: stm + searchK fails to determine the optimal number of topics,,"r,nlp,topic-modeling,quanteda",77481657,422,1699965930
+77477871,NLP sentence summarization techniques with python,,"python,algorithm,nlp",77479096,448,1699928958
+77461542,Entity Extraction in Rasa,,"machine-learning,nlp,entity,rasa-nlu,rasa-sdk",77463236,422,1699634132
+77455738,Finding the nouns in a sentence given the context in Python,,"python,nlp,nltk,textblob",77455927,181,1699556373
+77440929,Any alternative of Python Transfomer Package in java?,,"python,java,rest,machine-learning,nlp",77441746,560,1699385079
+77433100,How to get perplexity per token rather than average perplexity?,,"machine-learning,pytorch,nlp,huggingface-transformers,perplexity",77433933,1746,1699291820
+77432480,Do I need to retrain an NLP model everytime because of incompatible shape after transforming?,,"python,machine-learning,scikit-learn,nlp,xgboost",77432754,45,1699286277
+77427999,Custom spaCy tagger to tag all words that are in a dictionary,,"python,nlp,spacy,pos-tagger",77429721,184,1699225654
+77386212,How to make named entity recognition provide better categorization of data,,"nlp,spacy,large-language-model",77408625,359,1698640132
+77382923,"Laptop stopped when training a pytorch lstm model, while tensorflow counterpart works",,"python,deep-learning,pytorch,nlp",77384658,76,1698576101
+77373522,How does an instance of pytorch&#39;s `nn.Linear()` process a tuple of tensors?,,"python,machine-learning,pytorch,nlp,transformer-model",77373814,177,1698403407
+77347287,What components of spaCy Pipeline can be disabled so that the sentence tokenization can still work and the pipeline be faster?,,"python,nlp,spacy",77350022,491,1698082834
+77341456,Why does my transformer model have more parameters than the Huggingface implementation?,,"machine-learning,pytorch,nlp,huggingface-transformers,huggingface",77341769,754,1698003798
+77337720,How to change the fully connected network in a GPT model on Huggingface?,,"machine-learning,pytorch,nlp,huggingface-transformers,gpt-2",77339487,364,1697920853
+77333202,Reverse Index in SQL,,"sql,json,database,postgresql,nlp",77339809,773,1697827940
+77327117,How to get most similar words to a tagged document in gensim doc2vec,,"nlp,gensim,cosine-similarity,doc2vec",77327219,53,1697749696
+77311999,AttributeError when Initializing a Custom Decoder Class in TensorFlow with Non-Default Tokenizer,,"python,python-3.x,tensorflow,nlp,huggingface-transformers",77593927,171,1697573588
+77292726,Feeding my classifier one document at a time,,"python,machine-learning,scikit-learn,nlp,tfidfvectorizer",77294107,59,1697284742
+77278868,Get page number of certain string using pdfminer,,"python,pdf,nlp,pdfminer",77278901,531,1697098665
+77265396,How does SQLDatabase Chain work internally? (Langchain),,"nlp,langchain",77266382,1123,1696937491
+77258294,CompressFastText pqkmeans does not install,,"python,machine-learning,pip,nlp,fasttext",77270016,85,1696849565
+77248199,How to convert Doccano exported JSONL format to spaCy format？,,"nlp,spacy,named-entity-recognition,doccano",77275727,840,1696647305
+77248165,What does the vocabulary of a pre-trained / fine-tuned T5 model look like?,,"python,pytorch,nlp,huggingface-transformers",77248234,650,1696646103
+77247941,Summarizing n-grams efficiently in Python on big data,,"python,pandas,dataframe,nlp,n-gram",77266470,284,1696639488
+77240878,Tokenizing and summarizing Textual data by group efficiently in Python,,"python,pandas,dataframe,nlp,gensim",77242709,62,1696544199
+77237818,How to load a huggingface pretrained transformer model directly to GPU?,,"python,nlp,huggingface-transformers",77238046,58331,1696514260
+77217287,"In GCP&#39;s DocumentAI, when importing documents via API, is it possible to add a Document Type label?",,"machine-learning,google-cloud-platform,nlp,cloud-document-ai",77303713,617,1696266408
+77210103,Why am I getting Hidden size error with PyTorch RNN,,"deep-learning,pytorch,nlp,recurrent-neural-network,one-hot-encoding",77210305,140,1696156480
+77210041,troubleshooting PyTorch and Hugging Face&#39;s Pre-trained deBerta Model on Windows 11 with an RTX 3070 GPU,,"pytorch,nlp,gpu,huggingface-transformers,huggingface-tokenizers",77222088,520,1696155310
+77182740,Is there a way to measure the margins of a pdf file using image processing in python?,,"python,pdf,image-processing,nlp,html-content-extraction",77183028,679,1695754668
+77182311,Question about data_collator throwing a key error in Hugging face,,"python,pytorch,nlp,huggingface-transformers,huggingface-tokenizers",77182746,1011,1695750166
+77178058,How to Set Safety Parameters for Text Generation Model in Google Cloud Vertex AI?,,"python,machine-learning,nlp,google-cloud-vertex-ai,large-language-model",77181428,2558,1695715118
+77174018,Getting `TypeError: issubclass() arg 1 must be a class` when trying to load `nlp = spacy.load(&quot;en_ner_bc5cdr_md&quot;)`,,"python,tensorflow,machine-learning,nlp,spacy",77174910,863,1695656230
+77152888,HuggingFacePipeline and Langchain,,"nlp,langchain,huggingface",77162814,3020,1695321962
+77148560,"Python API usage for coreference, semantic graph and NERC",,"python,nlp,named-entity-recognition,freeling",77155932,50,1695285773
+77145360,looking for an efficient way to split columns in a text in pandas,,"python,pandas,nlp",77145443,64,1695237278
+77123153,How to download the Spacy en_core_web_sm model?,,"machine-learning,debugging,nlp,spacy",77123481,350,1694975985
+77116207,What is the correct approach to evaluate Huggingface models on the masked language modeling task?,,"machine-learning,nlp,huggingface-transformers,huggingface",77118113,419,1694833685
+77113484,AIML chatbot not learning from aiml file,,"python,nlp,chatbot,aiml",77127051,74,1694790460
+77107744,Use NLP (NLTK) to identify groups of phrases in a python dataframe,,"python,pandas,machine-learning,nlp,nltk",77112903,333,1694718289
+77094149,How to use both gpus in kaggle for training in pytorch?,,"machine-learning,deep-learning,nlp,gpu,kaggle",77728508,4058,1694580984
+77093345,How to get Enhanced++ dependency labels with a java command line in the terminal?,,"java,nlp,stanford-nlp",77212591,84,1694563972
+77091208,PyTorch SimCSE loss implementation,,"python,machine-learning,pytorch,nlp",77097615,596,1694537544
+77085879,LIME gives this error &quot;classifier models without probability scores&quot; in python,,"python,nlp,lime",77093884,639,1694488453
+77084206,How can I enhance morphological information for English models in spaCy?,,"nlp,pos-tagger,spacy-3",77102380,331,1694459134
+77082604,error inserting spacy.tokens.span.Span into pandas dataframe,,"python,dataframe,nlp,spacy,spacy-3",77171874,54,1694443289
+77074676,ImportError: cannot import name &#39;deprecated&#39; from &#39;typing_extensions&#39;,,"python,pip,nlp,spacy,python-typing",77075595,59372,1694314709
+77074094,Dataloader/sampler/collator to create batches based on the sample contents (sequence length),,"python,pytorch,nlp,batch-processing,dataloader",77075337,608,1694294897
+77068488,How to Efficiently Convert a Markdown Table to a DataFrame in Python?,,"python,nlp,markdown",77068592,6114,1694190084
+77068054,Training difficulties on Transformer seq2seq task using pytorch,,"machine-learning,pytorch,nlp,transformer-model,formal-languages",77069904,489,1694186090

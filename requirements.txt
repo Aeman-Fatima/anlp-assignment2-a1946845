@@ -1,0 +1,5 @@
+pandas
+nltk
+matplotlib
+wordcloud
+gensim==4.2.0
