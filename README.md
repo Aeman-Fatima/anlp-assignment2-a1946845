@@ -1,42 +1,31 @@
-# NLP StackOverflow Categorization Project (ANLP Assignment 2)
+# NLP StackOverflow Question Categorizer
 
-This project analyzes and categorizes Stack Overflow posts tagged with [nlp].
+Scrapes NLP-tagged questions from Stack Overflow via the StackExchange API, cleans and tokenizes the text, sorts each question into a category with a rule-based classifier, and runs LDA topic modeling on top. Produces a categorized dataset plus a wordcloud, a category bar chart, and a category-over-time chart.
+
+**Stack:** Python · pandas · NLTK · gensim (LDA) · WordCloud · matplotlib/seaborn
+
+## How It Works
+
+1. `src/scraper.py` — pulls `[nlp]`-tagged questions from the StackExchange API
+2. `src/preprocess.py` — strips HTML/special characters, lowercases, tokenizes, removes stopwords (NLTK)
+3. `src/categorize.py` — rule-based classifier sorting posts into categories (Implementation Issues, Task-Specific NLP, Error Fixes, Library-Specific Problems, Conceptual Understanding, etc.)
+4. `src/topic_model.py` — LDA topic modeling over the cleaned corpus (gensim)
+5. `src/visualize.py` — wordcloud, category distribution bar chart, category-over-time chart
 
 ## How to Run
 
 ```bash
-# Activate your environment, then run:
+pip install -r requirements.txt
+python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
 python src/main.py
 ```
 
-### Requirements
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
-
-> Note: Ensure you have NLTK stopwords and punkt downloaded:
-```python
-import nltk
-nltk.download('punkt')
-nltk.download('stopwords')
-
-# or you can download: 
-python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
-
 ## Output
-- Categorized dataset with ≥100 labeled posts
-- WordCloud
-- Bar graph of categories
+
+- Categorized dataset (~6,248 Stack Overflow posts collected via the StackExchange API)
+- Wordcloud
+- Bar chart of category distribution
 - Topic modeling results
-- Category timeline
+- Category-over-time chart
 
-## Dataset
-The dataset used was collected via the StackExchange API and includes ~6,248 posts. You can find the dataset and all outputs here:
-
-[data/nlp_stackoverflow_sample.csv]
-
-
-## 👩‍💻 Author
-**Aeman Fatima** — [a1946845]
+Dataset: `data/nlp_stackoverflow_sample.csv`
